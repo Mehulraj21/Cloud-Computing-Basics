@@ -75,8 +75,7 @@ In summary, an Employee Attendance Table Using AWS allows you to build a scalabl
 
 
 
-Bus Payment and Ticketing System on AWS: Summary
-Plan the System Architecture:
+                                                                                Bus Payment and Ticketing System on AWS
 
 Frontend: User interface for booking and payments (e.g., a web or mobile app).
 Backend: API to handle bookings, ticket generation, and payment processing.
