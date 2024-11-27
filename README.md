@@ -1,4 +1,7 @@
-Employee Attendance Table Using AWS: Project Summary
+Employee Attendance Table Using AWS: 
+
+
+
 This project involves building an employee attendance management system using various AWS services. The goal is to automate and manage employee attendance records, providing an easy-to-use web interface for employees to mark their attendance and for administrators to track it.
 
 Key Components:
